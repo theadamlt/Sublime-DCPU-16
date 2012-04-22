@@ -6,7 +6,7 @@
 	<array>
 		<string>s</string>
 		<string>S</string>
-		<string>dcpu16</string>
+		<string>dasm16</string>
 	</array>
 	<key>name</key>
 	<string>DCPU-16</string>
