@@ -5,11 +5,13 @@
 	<key>name</key>
 	<string>Symbol List</string>
 	<key>scope</key>
-	<string>entity.name.tag</string>
+	<string>source.dcpu-16 entity.name.tag</string>
 	<key>settings</key>
 	<dict>
 		<key>showInSymbolList</key>
 		<integer>1</integer>
+		<key>symbolTransformation</key>
+		<string>s/://</string>
 	</dict>
 	<key>uuid</key>
 	<string>2C3246A3-2926-418B-9286-385124A69C9A</string>

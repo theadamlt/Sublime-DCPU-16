@@ -1,4 +1,4 @@
-<!--<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -6,6 +6,8 @@
 	<string>6040CEF1-E2EE-4BE9-83CF-47F019244B20</string>
 	<key>name</key>
 	<string>Paired Chars</string>
+	<key>scope</key>
+	<string>source.dcpu-16</string>
 	<key>settings</key>
 	<dict>
 		<key>smartTypingPairs</key>
@@ -15,12 +17,12 @@
 				<string>"</string>
 			</array>
 			<array>
-				<string>[</string>
-				<string>]</string>
+				<string>\[</string>
+				<string>\]</string>
 			</array>
 		</array>
 	</dict>
 	<key>uuid</key>
 	<string>A82D0AD0-3B50-4EB0-9C06-874D60E9D0C5</string>
 </dict>
-</plist>-->
+</plist>
